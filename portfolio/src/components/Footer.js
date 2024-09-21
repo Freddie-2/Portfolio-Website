@@ -8,7 +8,7 @@ function Footer() {
         <div className='SocialMedia'>
             <LinkedInIcon/>
         </div>
-        <p>&copy: fredrick.com</p>
+        <p> &copy; fredrick.com</p>
     </div>
   )
 }
